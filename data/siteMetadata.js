@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Carlos Log Notes',
+  title: 'Carlos log notes',
   author: 'Carlos Rojas',
-  headerTitle: 'Carlos Log notes',
+  headerTitle: 'Carlos log notes',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
