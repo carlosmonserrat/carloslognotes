@@ -18,6 +18,7 @@ const LayoutWrapper = ({ children }) => {
                 <div className="mr-3">
                   <Logo />
                 </div>
+                <div className="hidden h-6 text-2xl font-semibold sm:block"></div>
               </div>
             </Link>
           </div>
