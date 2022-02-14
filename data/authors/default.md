@@ -1,12 +1,12 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Carlos Rojas
+avatar: /static/images/carlosrojas.jpg
+occupation: Software Engineer
+company: Portavita
+email: soy_solamente@hotmail.com
+twitter: https://twitter.com/carloslogger
+linkedin: https://www.linkedin.com/in/devcarlos
+github: https://github.com/carlosmonserrat
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
